@@ -1,5 +1,6 @@
 {
     "users": [
-        { "id": 1, "username": "ABC", "password": 123, "name": "khoa", "avatar": "assets/icons/avatar.png"}
+        { "id": 1, "username": "ABC", "password": "123", "name": "khoa", "avatar": "assets/icons/avatar.png" },
+        { "id": 2, "username": "test", "password": "test", "name": "test", "avatar": "assets/icons/avatar.png" }
     ]
 }
